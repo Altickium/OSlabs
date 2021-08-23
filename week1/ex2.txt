@@ -1,0 +1,60 @@
+    1  mkdir ~/week1
+    2  ls
+    3  cd week1
+    4  ls /usr/bin | grep gcc | sort -r > ex1.txt
+    5  ls
+    6  ex1.txt
+    7  head ex1.txt
+    8  head 1 ex1.txt
+    9  head ex1.txt 5
+   10  head -n 3 ex1.txt
+   11  head -n 3 < ex1.txt
+   12  tail -n 3 ex1.txt
+   13  tail -n 3 ex1
+   14  ls
+   15  gedit ex1.txt
+   16  ls
+   17  ls /usr/bin
+   18  ls /usr/bin | grep gcc
+   19  cd
+   20  ..
+   21  ls
+   22  ;s 
+   23  ..
+   24  cd root
+   25  cd ~
+   26  ls
+   27  ..
+   28  cd ..
+   29  ls
+   30  cd ..
+   31  ls
+   32  cd usr
+   33  ls
+   34  cd bin 
+   35  ls
+   36  apt
+   37  apt install gcc
+   38  sudo apt install gcc
+   39  ls
+   40  ls | grep gcc
+   41  cd .. 
+   42  cd ..
+   43  ls
+   44  cd ..
+   45  cd root
+   46  sudo cd root
+   47  123
+   48  cd ~
+   49  ls
+   50  cd week1
+   51  ls
+   52  rm ex1.txt
+   53  ls
+   54  ls usr/bin/ | grep gcc | sort -r > ex1.txt
+   55  ls
+   56  rm ex1.txt
+   57  ls /usr/bin | grep gcc | sort -r > ex1.txt
+   58  ls
+   59  head -n 3 ex1.txt
+   60  history > ex2.txt

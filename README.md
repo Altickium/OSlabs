@@ -1,3 +1,0 @@
-# OSlabs
-
-Test
